@@ -1,0 +1,17 @@
+{
+  "name": "fe-react-tmp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "fe server",
+    "build": "fe build"
+  },
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+   
+  },
+  "description": ""
+}
